@@ -3,21 +3,21 @@
 body{
   display: flex;
   justify-content: center;
-  background-color: #EEE0C9 !important;
+  background-color: #12052c !important;
   
   
 }
 .main {
   display: flex;
   justify-content: space-around;
-  background-color: #96B6C5;
-  height: 60%;
-  width: 90%;
+  background-color: #041621;
+  height: 40%;
+  width: 60%;
   border: solid black 1px;
   border-radius: 30px;
-  margin-left: 5%;
+  margin-left: 20%;
   margin-top: 5%;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.8); /* Add this line for shadow effect */
+  box-shadow: 0 4px 8px rgba(255, 253, 253, 0.1); /* Add this line for shadow effect */
 }
 
 .img{
