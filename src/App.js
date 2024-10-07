@@ -1,11 +1,9 @@
 import HomePage from "./HomePage";
-import Footer from "./footer";
+
 function App() {
   return (
     <div>
-    <HomePage/>
-    <Footer/>
-  
+      <HomePage />
     </div>
   );
 }

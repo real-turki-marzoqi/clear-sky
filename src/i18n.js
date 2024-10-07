@@ -12,7 +12,7 @@ const resources = {
       "Makkah al Mukarramah":"Makkah al Mukarramah",
       "Istanbul": "Istanbul",
       "ankara": "ankara",
-      "beitunia": "beitunia",
+      
       "Eskipazar": "Eskipazar/karabük",
       "eskipazar":"eskipazar",
       "amman": "amman",
@@ -92,11 +92,11 @@ const resources = {
   },
   ar: {
     translation: {
-      "Amman Governorate":"عمان",
+      "Amman":"عمان",
       "Baytūnyā":"بيتونيا",
       "Çankaya":"أنقرة",
       "Jeddah": "جدة",
-      "makkah":"مكة",
+      "Makkah":"مكة",
       "Medina": "المدينة",
       "Makkah al Mukarramah": " مكة المكرمة",
       "Istanbul": "إسطنبول",
